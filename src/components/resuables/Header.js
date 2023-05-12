@@ -12,7 +12,7 @@ const Header = ({header,onPress}) => {
     
     
      <TouchableOpacity onPress={onPress} 
-     style={[{width:50,height:50,justifyContent:'center',alignItems:'center',position:'absolute',left:20,},Platform.OS==='ios'&&{top:40}]}>
+     style={[{width:50,height:50,justifyContent:'center',alignItems:'center',position:'absolute',left:10,},Platform.OS==='ios'&&{top:40}]}>
    <Icon name='arrowleft' size={25} color={Colors.gray} />
    </TouchableOpacity>
    <Text style={{fontFamily:'Montserrat-Bold',color:Colors.black,fontSize:20}}>{header}</Text>

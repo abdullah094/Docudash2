@@ -46,7 +46,6 @@ const TabNavigator = () => {
         bottom:22,
         left:15,
         right:15,
-        elevation:0,
         backgroundColor:Colors.white,
         borderRadius:15,
         height:70,

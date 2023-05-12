@@ -16,7 +16,7 @@ shadowOffset: {
 },
 shadowOpacity: 0.43,
 shadowRadius: 9.51,
-elevation: 10,
+elevation: 5,
         }}>
             
           <Image style={{width:100,height:100}} source={image}/>

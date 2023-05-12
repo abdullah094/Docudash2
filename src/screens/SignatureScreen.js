@@ -32,41 +32,7 @@ const SignatureScreen = ({navigation}) => {
       name:'Sales Agreemnet v, 5',
       image: require('../assets/images/doumentImage.png')
     },
-    {
-      id:5,
-      name:'Sales Agreemnet v, 6',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:6,
-      name:'Sales Agreemnet v, 7',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:8,
-      name:'Sales Agreemnet v, 8',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:9,
-      name:'Sales Agreemnet v, 8',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:10,
-      name:'Sales Agreemnet v, 8',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:11,
-      name:'Sales Agreemnet v, 8',
-      image: require('../assets/images/doumentImage.png')
-    },
-    {
-      id:12,
-      name:'Sales Agreemnet v, 8',
-      image: require('../assets/images/doumentImage.png')
-    },
+   
 
   ]
 

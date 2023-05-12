@@ -25,5 +25,7 @@ package="com.docudash2">
         <meta-data
      android:name="com.google.android.geo.API_KEY"
      android:value="AIzaSyAS5nWA8pNQgiVb_LAWkOq6GU8F1tfmvDQ"/>
+
     </application>
+ 
 </manifest>
